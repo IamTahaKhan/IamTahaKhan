@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/rastudio/rastudio1809/rastudio180900374/108233116-front-end-development-it-header-or-footer-banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://media.istockphoto.com/vectors/front-end-development-web-banner-concept-vector-id1167600197)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Taha khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
